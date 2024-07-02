@@ -1,6 +1,6 @@
 # Successful Album or Forgotten: Predicting Album Ratings Using Sentiment Analysis
 
-You can download the dataset here: [Pitchfork Reviews: Music Critiques Over the Years]([https://link-to-your-file](https://www.kaggle.com/datasets/timstafford/pitchfork-reviews/data).
+You can download the dataset here: [Pitchfork Reviews: Music Critiques Over the Years](https://www.kaggle.com/datasets/timstafford/pitchfork-reviews/data).
 
 ## Project Overview
 
