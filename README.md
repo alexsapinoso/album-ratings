@@ -1,5 +1,7 @@
 # Successful Album or Forgotten: Predicting Album Ratings Using Sentiment Analysis
 
+You can download the dataset here: [Pitchfork Reviews: Music Critiques Over the Years]([https://link-to-your-file](https://www.kaggle.com/datasets/timstafford/pitchfork-reviews/data)).
+
 ## Project Overview
 
 This project aims to predict album ratings using sentiment analysis on Pitchfork album reviews. By leveraging text mining techniques and machine learning models, we explore the factors that influence whether an album's review is positive or negative.
